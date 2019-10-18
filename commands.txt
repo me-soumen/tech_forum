@@ -1,0 +1,13 @@
+ls    -List of files.
+git config --global user.name "me-soumen"					-User name first time
+git config --global user.email me.soumen02@gmail.com		-User email first time
+
+git clone https://github.com/me-soumen/tech_forum.git
+
+git add commands.txt		-To add file name in git
+git commit -m "commands file created" commands.txt
+git push -u origin master	-File will be pushed to master branch.
+
+
+git checkout -b new_branch	-To create new branch
+git checkout master			-To change branch
