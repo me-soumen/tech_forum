@@ -15,3 +15,6 @@ git checkout master			-To change branch
 
 git fetch
 git checkout origin/master commands.txt		-To pull a file into local.
+
+git commit -m "Merge Changes"		-to merge
+git reset merge						-to reset merge
