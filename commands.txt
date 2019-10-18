@@ -11,3 +11,7 @@ git push -u origin master	-File will be pushed to master branch.
 
 git checkout -b new_branch	-To create new branch
 git checkout master			-To change branch
+
+
+git fetch
+git checkout origin/master commands.txt		-To pull a file into local.
